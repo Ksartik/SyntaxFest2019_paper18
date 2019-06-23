@@ -1,0 +1,3 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.2690810467520588,cobrar:VERB,,0.2857142857142857,0.5714285714285714,0.14285714285714285,0.5,-4.833333333333333,1.0
+0.2447194915672523,instaurar:VERB,,0.6000000000000001,0.2,0.2,2.0,-2.0,3.0

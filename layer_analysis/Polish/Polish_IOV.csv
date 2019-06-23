@@ -1,0 +1,4 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.890326026731683,obrzydzać:VERB,,0.0,0.5,0.5,0.0,1.0,2.0
+0.4081187240344978,oszczędzić:VERB,,0.0,0.6666666666666666,0.3333333333333333,0.0,1.0,2.0
+0.17878680752944381,puścić:VERB,,0.3,0.5,0.2,2.0,0.4,0.5

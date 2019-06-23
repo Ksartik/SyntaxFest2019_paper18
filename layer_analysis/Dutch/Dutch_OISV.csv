@@ -1,0 +1,3 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.24805940936776016,bijstaan:VERB,,0.625,0.25,0.125,4.083333333333334,5.5,5.0
+0.38518702556790485,toebedelen:VERB,,0.4,0.2,0.4,2.5,4.0,2.5

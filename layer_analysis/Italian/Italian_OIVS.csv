@@ -1,0 +1,5 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.16289055135470498,impacchettare:VERB,,0.4,0.6,0.0,-2.0,1.0,0.0
+0.16289055135470498,intervistare:VERB,,0.4,0.6,0.0,0.0,0.3333333333333333,0.0
+0.17335471510636075,rallegrare:VERB,,0.3333333333333333,0.6666666666666666,0.0,-1.0,1.0,0.0
+0.16289055135470495,stanziare:VERB,,0.6000000000000001,0.4,0.0,-0.25,1.0,0.0

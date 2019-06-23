@@ -1,0 +1,3 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.15100505758148797,konstrueerima:VERB,,0.14285714285714285,0.7142857142857143,0.14285714285714285,3.0,0.0,3.0
+0.12707918327503803,raugema:VERB,,0.75,0.0,0.25,1.0,0.0,2.0

@@ -1,0 +1,3 @@
+﻿probability,verb,prev_layer,subj_freq,obj_freq,iobj_freq,subj_avdist,obj_avdist,iobj_avdist
+0.1255441306094409,ні:VERB,,0.0,0.45454545454545453,0.5454545454545454,0.0,-2.6,-4.5
+0.12707918327503803,помогти:VERB,,0.0,0.75,0.25,0.0,-1.0,-4.0
